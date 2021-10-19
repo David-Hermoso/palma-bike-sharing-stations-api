@@ -4,258 +4,480 @@
     "id": "01",
     "name": "PARC DE SES VELES",
     "lng": 2.659399509,
-    "lat": 39.56590061
+    "lat": 39.56590061,
+    "fullAddress": "Joan Alcover, 58, Palma, Illes Balears",
+    "street": "Joan Alcover",
+    "streetNumber": 58,
+    "cp": "07006",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "06",
     "name": "MANUEL AZAÑA",
     "lng": 2.665643692,
-    "lat": 39.57135084
+    "lat": 39.57135084,
+    "fullAddress": "Manacor, 64, 07006 Palma, Illes Balears",
+    "street": "Manacor",
+    "streetNumber": 64,
+    "cp": "07006",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "59",
     "name": "MATEU ENRIC LLADÓ",
     "lng": 2.656159401,
-    "lat": 39.56767054
+    "lat": 39.56767054,
+    "fullAddress": "Mateu Enric Lladó, 15, 07002 Palma, Illes Balears",
+    "street": "Mateu Enric Lladó",
+    "streetNumber": 15,
+    "cp": "07002",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "60",
     "name": "TRAVESSA BALLESTER",
     "lng": 2.65644908,
-    "lat": 39.57027572
+    "lat": 39.57027572,
+    "fullAddress": "Escola Graduada, 3, 07002 Palma, Illes Balears",
+    "street": "Escola Graduada",
+    "streetNumber": 3,
+    "cp": "07002",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "09",
     "name": "F. MANUEL HERREROS",
     "lng": 2.664034367,
-    "lat": 39.57458439
+    "lat": 39.57458439,
+    "fullAddress": "Francesc Manuel de los Herreros, 32 07005 Palma, Illes Balears",
+    "street": "Francesc Manuel de los Herreros",
+    "streetNumber": 32,
+    "cp": "07005",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "07",
     "name": "ARAGÓ-NUREDDUNA",
     "lng": 2.657833099,
-    "lat": 39.57266578
+    "lat": 39.57266578,
+    "fullAddress": "Aragó, 2, 07006 Palma, Illes Balears",
+    "street": "Aragó",
+    "streetNumber": 2,
+    "cp": "07006",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "17",
     "name": "ARAGÓ-JAUME BALMES",
     "lng": 2.66289711,
-    "lat": 39.57886798
+    "lat": 39.57886798,
+    "fullAddress": "Jaume Balmes, 1, 07005 Palma, Illes Balears",
+    "street": "Jaume Balmes",
+    "streetNumber": 1,
+    "cp": "07005",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "21",
     "name": "PALEXANDER FLEMING",
     "lng": 2.655279636,
-    "lat": 39.58131563
+    "lat": 39.58131563,
+    "fullAddress": "Plaça d'Alexander Fleming, 4, 07004 Palma, Illes Balears",
+    "street": "Plaça d'Alexander Fleming",
+    "streetNumber": 4,
+    "cp": "07004",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "31",
     "name": "PL. MADRID",
     "lng": 2.641010284,
-    "lat": 39.57718104
+    "lat": 39.57718104,
+    "fullAddress": "Plaça de Madrid, 3, 07011 Palma, Illes Balears",
+    "street": "Plaça de Madrid",
+    "streetNumber": 3,
+    "cp": "07011",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "37",
     "name": "AVD ARGENTINA",
     "lng": 2.6406025890000002,
-    "lat": 39.57450169
+    "lat": 39.57450169,
+    "fullAddress": "Avinguda de l'Argentina, 67, 07011 Palma, Illes Balears",
+    "street": "Avinguda de l'Argentina",
+    "streetNumber": 67,
+    "cp": "07011",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "52",
     "name": "CECILI METEL",
     "lng": 2.649496794,
-    "lat": 39.57688334
+    "lat": 39.57688334,
+    "fullAddress": "Cecili Metel, 17, 07003 Palma, Illes Balears",
+    "street": "Cecili Metel",
+    "streetNumber": 17,
+    "cp": "07003",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "29",
     "name": "INSTITUT BALEAR",
     "lng": 2.646095753,
-    "lat": 39.57728027
+    "lat": 39.57728027,
+    "fullAddress": "Institut Balear, 5, 07012 Palma, Illes Balears",
+    "street": "Institut Balear",
+    "streetNumber": 5,
+    "cp": "07012",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "46",
     "name": "PL REI JOAN CARLES I",
     "lng": 2.64695406,
-    "lat": 39.57137565
+    "lat": 39.57137565,
+    "fullAddress": "Plaça Rei Joan Carles I, 10, 07001 Palma, Illes Balears",
+    "street": "Plaça Rei Joan Carles I",
+    "streetNumber": 10,
+    "cp": "07001",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "51",
     "name": "VIA ROMA",
     "lng": 2.647608519,
-    "lat": 39.57529558
+    "lat": 39.57529558,
+    "fullAddress": "Baró de Pinopar, 2, 07012 Palma, Illes Balears",
+    "street": "Baró de Pinopar",
+    "streetNumber": 2,
+    "cp": "07012",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "41",
     "name": "FÁBRICA",
     "lng": 2.637383938,
-    "lat": 39.57274848
+    "lat": 39.57274848,
+    "fullAddress": "Comte de Barcelona, 25, 07013 Palma, Illes Balears",
+    "street": "Comte de Barcelona",
+    "streetNumber": 25,
+    "cp": "07013",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "45",
     "name": "JAUME III",
     "lng": 2.642920017,
-    "lat": 39.57247557
+    "lat": 39.57247557,
+    "fullAddress": "Jaume III, 22, 07012 Palma, Illes Balears",
+    "street": "Jaume III",
+    "streetNumber": 22,
+    "cp": "07012",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "47",
     "name": "PL PORTA S CATALINA",
     "lng": 2.641439438,
-    "lat": 39.57113582
+    "lat": 39.57113582,
+    "fullAddress": "Porta de Santa Catalina, 17, 07012 Palma, Illes Balears",
+    "street": "Jaume III",
+    "streetNumber": 17,
+    "cp": "07012",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "49",
     "name": "PL DE LA REINA",
     "lng": 2.645848989,
-    "lat": 39.56797655
+    "lat": 39.56797655,
+    "fullAddress": "Antoni Maura, 10, 07012 Palma, Illes Balears",
+    "street": "Antoni Maura",
+    "streetNumber": 10,
+    "cp": "07012",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "55",
     "name": "PL. SANTA EULALIA",
     "lng": 2.650655508,
-    "lat": 39.56914268
+    "lat": 39.56914268,
+    "fullAddress": "Plaça de Santa Eulàlia, 9, 07001 Palma, Illes Balears",
+    "street": "Plaça de Santa Eulàlia",
+    "streetNumber": 9,
+    "cp": "07001",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "13",
     "name": "PARC DE ESTACIONS",
     "lng": 2.655408382,
-    "lat": 39.57602331
+    "lat": 39.57602331,
+    "fullAddress": "Marquès de la Fontsanta, 3, 07005 Palma, Illes Balears",
+    "street": "Marquès de la Fontsanta",
+    "streetNumber": 3,
+    "cp": "07005",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "15",
     "name": "J VERDAGUER-J BALMES",
     "lng": 2.659850121,
-    "lat": 39.58015797
+    "lat": 39.58015797,
+    "fullAddress": "Jacint Verdaguer, 24, 07005 Palma, Illes Balears",
+    "street": "Jacint Verdaguer",
+    "streetNumber": 24,
+    "cp": "07005",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "63",
     "name": "PL. DESPANYA",
     "lng": 2.654550076,
-    "lat": 39.57543616
+    "lat": 39.57543616,
+    "fullAddress": "Plaça de España, 8, 07002 Palma, Islas Baleares",
+    "street": "Plaça de España",
+    "streetNumber": 8,
+    "cp": "07002",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "65",
     "name": "PL ALEXANDRE JAUME",
     "lng": 2.655934095,
-    "lat": 39.57226055
+    "lat": 39.57226055,
+    "fullAddress": "Plaça Alexandre Jaume, 10, 07002 Palma, Illes Balears",
+    "street": "Plaça Alexandre Jaume",
+    "streetNumber": 10,
+    "cp": "07002",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "16",
     "name": "PARC DE SA RIERA",
     "lng": 2.644529343,
-    "lat": 39.5815637
+    "lat": 39.5815637,
+    "fullAddress": "Jesus, 21, 07010 Palma, Islas Baleares",
+    "street": "Jesus",
+    "streetNumber": 21,
+    "cp": "07010",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "24",
     "name": "BLANQUERNA-SALLENT",
     "lng": 2.651245594,
-    "lat": 39.57809894
+    "lat": 39.57809894,
+    "fullAddress": "Blanquerna, 2, 07003 Palma, Islas Baleares",
+    "street": "Blanquerna",
+    "streetNumber": 2,
+    "cp": "07003",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "27",
     "name": "PL. PARIS",
     "lng": 2.649158,
-    "lat": 39.584186
+    "lat": 39.584186,
+    "fullAddress": "Plaça de París, 1, 07010 Palma, Illes Balears",
+    "street": "Plaça de París",
+    "streetNumber": 1,
+    "cp": "07010",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "25",
     "name": "BLANQUERNA BARTOLOMÉ",
     "lng": 2.649260759,
-    "lat": 39.58085257
+    "lat": 39.58085257,
+    "fullAddress": "Blanquerna, 39, 07003 Palma, Islas Baleares",
+    "street": "Blanquerna",
+    "streetNumber": 39,
+    "cp": "07010",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "18",
     "name": "METGE DARDER",
     "lng": 2.667289,
-    "lat": 39.577219
+    "lat": 39.577219,
+    "fullAddress": "Josep Darder Metge, 38, 07008 Palma, Illes Balears",
+    "street": "Josep Darder Metge",
+    "streetNumber": 38,
+    "cp": "07008",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "34",
     "name": "SANT-FERRAN",
     "lng": 2.633347,
-    "lat": 39.5776
+    "lat": 39.5776,
+    "fullAddress": "Libertad, 30, 07013 Palma, Islas Baleares",
+    "street": "Libertad",
+    "streetNumber": 30,
+    "cp": "07013",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "61",
     "name": "PLAÇA PONT",
     "lng": 2.633678,
-    "lat": 39.570342
+    "lat": 39.570342,
+    "fullAddress": "Sant Magí, 92, 07013 Palma, Illes Balears",
+    "street": "Sant Magí",
+    "streetNumber": 92,
+    "cp": "07013",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "70",
     "name": "CTRA. VALLDEMOSSA",
     "lng": 2.650011,
-    "lat": 39.587861
+    "lat": 39.587861,
+    "fullAddress": "Guillem Forteza, 27, 07010 Palma, Illes Balears",
+    "street": "Guillem Forteza",
+    "streetNumber": 27,
+    "cp": "07010",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "77",
     "name": "SON COSTA - SON FORTEZA",
     "lng": 2.6661,
-    "lat": 39.584114
+    "lat": 39.584114,
+    "fullAddress": "Argelaga, 26, 07005 Palma, Illes Balears",
+    "street": "Argelaga",
+    "streetNumber": 26,
+    "cp": "07005",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "02",
     "name": "MANUEL AZAÑA",
     "lng": 2.663109,
-    "lat": 39.566235
+    "lat": 39.566235,
+    "fullAddress": "Manuel Azaña, 38, 07006 Palma, Illes Balears",
+    "street": "Manuel Azaña",
+    "streetNumber": 38,
+    "cp": "07006",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "19",
     "name": "ARXIDUC LLUIS SALVADOR",
     "lng": 2.657432,
-    "lat": 39.58455
+    "lat": 39.58455,
+    "fullAddress": "Arxiduc Lluís Salvador, 96, 07004 Palma, Illes Balears",
+    "street": "Arxiduc Lluís Salvador",
+    "streetNumber": 96,
+    "cp": "07004",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "71",
     "name": "SAN VICENTE DE PAUL",
     "lng": 2.647577,
-    "lat": 39.593135
+    "lat": 39.593135,
+    "fullAddress": "Sant Vicenç de Paül, 17, 07010 Palma, Illes Balears",
+    "street": "Sant Vicenç de Paül",
+    "streetNumber": 17,
+    "cp": "07010",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "80",
     "name": "P. BARTOMEU BARCELÓ I MIR",
     "lng": 2.67077,
-    "lat": 39.561516
+    "lat": 39.561516,
+    "fullAddress": "Passeig de Bartomeu Barceló i Mir, 1, 07006 Palma, Illes Balears",
+    "street": "Passeig de Bartomeu Barceló i Mir",
+    "streetNumber": 1,
+    "cp": "07006",
+    "town": "Palma",
+    "region": "Illes Balears"
   },
   {
     "img": null,
     "id": "32",
     "name": "PLAÇA BARCELONA",
     "lng": 2.639351,
-    "lat": 39.580072
+    "lat": 39.580072,
+    "fullAddress": "Plaça de Barcelona, 7, 07011 Palma, Illes Balears",
+    "street": "Plaça de Barcelona",
+    "streetNumber": 7,
+    "cp": "07011",
+    "town": "Palma",
+    "region": "Illes Balears"
   }
 ]
